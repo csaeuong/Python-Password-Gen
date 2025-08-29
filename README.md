@@ -19,7 +19,8 @@ The objective of this project was to create a simple Python-based password gener
 
 ## Code 
 
-<img width="1920" height="1040" alt="Passgen" src="https://github.com/user-attachments/assets/f2f66a73-140f-4dd4-a54d-a19e8a4e6e38" />
+<img width="1920" height="1040" alt="Passgen" src="https://github.com/user-attachments/assets/aa8c19da-09e5-4371-be1c-b1cf62c3266c" />
+
 
 ### Quick Reference
 - import - load tools.
